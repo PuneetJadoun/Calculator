@@ -8,7 +8,6 @@ A simple calculator built using **HTML**, **CSS**, and **JavaScript** as a pract
 - Responsive button layout
 - Clean and organized code structure
 - Interactive user input handling
-- Error prevention (optional: mention if you handled errors like division by zero)
 
 ## 📸 Screenshots
 
